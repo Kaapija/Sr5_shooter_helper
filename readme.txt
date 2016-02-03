@@ -1,0 +1,1 @@
+Normally shooting is somewhat of a chore in sr5. This app plans to minimize the time to shoot. Incomplete 2.3. Updates are inbound.
